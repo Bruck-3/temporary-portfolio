@@ -1,2 +1,2 @@
 # temporary-portfolio
-Terminal Like Porfolio. Design Inspired By https://tiffanywhite.dev/ 
+Terminal Like Portfolio. Design Inspired By https://tiffanywhite.dev/ 
